@@ -1,4 +1,4 @@
-# USOPC Take-Home Project (2022 Olympic 1000m Speed Skating predictions)
+# 2022 Olympic 1000m Speed Skating predictions
 ## Definition of the Problem
 The goal of this project is to project a distribution 
 for each skater on the men's and women's side of the 1000m speed skating event.
